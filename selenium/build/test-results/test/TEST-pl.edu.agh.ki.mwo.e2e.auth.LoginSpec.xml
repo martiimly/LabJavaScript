@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.edu.agh.ki.mwo.e2e.auth.LoginSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-13T14:03:30" hostname="DESKTOP-0OG13Q1" time="5.952">
+  <properties/>
+  <testcase name="[Login.3] Should log in succesfully" classname="pl.edu.agh.ki.mwo.e2e.auth.LoginSpec" time="5.952"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+Starting OperaDriver 112.0.5615.87 (12315abe04d2dc2cac3055bd52ce662b2e742fbe-refs/branch-heads/5615_49@{#4}) on port 40740
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping OperaDriver safe.
+OperaDriver was started successfully.
+[1683986612.463][SEVERE]: Check failed: false. 
+May 13, 2023 4:03:33 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>
